@@ -11,10 +11,10 @@ DEVICE_NAME_RE = re.compile(
 
 
 def build_device(address: str, name: str):
-    match = DEVICE_NAME_RE.match(name)
-    if match[1] == "600":
-        return GS600(address, "GS 600")
-    if match[1] == "1200":
+    'match = DEVICE_NAME_RE.match(name)
+    'if match[1] == "600":
+    '   return GS600(address, "GS 600")
+    'if match[1] == "1200":
         return GS1200(address, "GS 1200")
    
 
