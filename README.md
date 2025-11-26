@@ -16,6 +16,7 @@ After the installation, you can use this button to install the integration:
 ### Supported devices:
 
 - GS600
+- GS1200
 
 ### Available controls:
 If enabled in the Integration options (you need to reload the integration if you change this option):
