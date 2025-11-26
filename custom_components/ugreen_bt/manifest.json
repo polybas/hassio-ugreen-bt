@@ -2,7 +2,8 @@
     "domain": "ugreen_bt",
     "name": "Ugreen BT",
     "bluetooth": [
-        { "local_name": "GS600*" }
+        { "local_name": "GS600*" },
+        { "local_name": "GS1200*" }
     ],
     "codeowners": ["@polybas"],
     "config_flow": true,
@@ -12,5 +13,5 @@
     "iot_class": "local_polling",
     "issue_tracker": "https://github.com/polybas/hassio-ugreen-bt/issues",
     "requirements": [],
-    "version": "0.0.3"
+    "version": "0.0.4"
 }
