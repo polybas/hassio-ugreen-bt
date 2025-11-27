@@ -2,7 +2,6 @@
     "domain": "ugreen_bt",
     "name": "Ugreen BT",
     "bluetooth": [
-        { "local_name": "GS600*" },
         { "local_name": "GS1200*" }
     ],
     "codeowners": ["@polybas"],
