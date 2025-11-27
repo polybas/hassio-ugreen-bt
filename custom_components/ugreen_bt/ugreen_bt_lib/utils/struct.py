@@ -1,7 +1,5 @@
 """Struct definitions."""
 
-# Copy of https://github.com/warhammerkid/bluetti_mqtt/blob/main/bluetti_mqtt/core/devices/struct.py
-
 from decimal import Decimal
 from enum import Enum
 from .commands import ReadHoldingRegisters
