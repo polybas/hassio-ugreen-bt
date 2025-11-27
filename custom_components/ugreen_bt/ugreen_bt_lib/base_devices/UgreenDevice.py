@@ -1,7 +1,5 @@
 """Ugreen device."""
 
-# Reduced copy of https://github.com/warhammerkid/bluetti_mqtt/blob/main/bluetti_mqtt/core/devices/bluetti_device.py
-
 from typing import Any, List
 
 from ..utils.commands import ReadHoldingRegisters, WriteSingleRegister
