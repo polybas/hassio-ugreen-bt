@@ -14,18 +14,7 @@ DATA_COORDINATOR = "coordinator"
 DATA_POLLING_RUNNING = "polling_running"
 
 SUPPORTED_MODELS = [
-    "AC2A",
-    "AC60",
-    "AC60P",
-    "AC200M",
-    "AC300",
-    "AC500",
-    "EB3A",
-    "EP500",
-    "EP500P",
-    "EP600",
-    "EP760",
-    "AC180P",
+    "GS1200"
 ]
 
 CONTROL_FIELDS = [
