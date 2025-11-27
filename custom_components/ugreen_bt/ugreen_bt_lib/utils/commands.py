@@ -1,7 +1,5 @@
 """Device commands."""
 
-# Copy of https://github.com/warhammerkid/bluetti_mqtt/blob/main/bluetti_mqtt/core/commands.py
-
 import struct
 import crcmod.predefined
 
